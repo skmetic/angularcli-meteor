@@ -463,7 +463,7 @@ module.exports = {
         "license.txt"
       ],
       "perChunkOutput": false,
-      "outputTemplate": "/home/niko/WebstormProjects/examples/angularcli-meteor/node_modules/license-webpack-plugin/output.template.ejs",
+      "outputTemplate": "node_modules/license-webpack-plugin/output.template.ejs",
       "outputFilename": "3rdpartylicenses.txt",
       "suppressErrors": true,
       "includePackagesWithoutLicense": false,
